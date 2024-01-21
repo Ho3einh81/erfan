@@ -1,13 +1,13 @@
 
-### Erfangorji
+### Hosein Hashemi
 
 
 ### Personal informations
 
 ---
-+ name: Erfan
-+ last name : Gorji
-+ Date of birth : 1999/December/20
++ name: Hosein 
++ last name : Hashemi
++ Date of birth : 1999/October/15
 + I am a trader and electrical engineering student
 + location : Esfahan , I.R.Iran
 
@@ -15,14 +15,14 @@
 ### Skill Highlights
 
 ---
-+ trade on Tehran Stock Exchange and Forex
+
 + translating
 
 
 ### Education
 
 ---
-+ Diploma : Sheikh ansari high school
++ Diploma : Navid high school
 + Bachelor of science : electrical Engineering
 _ shahrekord University  
 
@@ -38,12 +38,12 @@ _ shahrekord University
 + Trade
 + Studing historical books
 + travel 
-+ playing volleyball
++ playing Soccer
 
 ### working Experience
 
 ---
-+ I am working in factory.
+
 
 
 
