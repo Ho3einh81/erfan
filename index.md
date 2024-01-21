@@ -8,7 +8,7 @@
 + name: Erfan
 + last name : Gorji
 + Date of birth : 1999/December/20
-+ I am a trader and IT engineering student
++ I am a trader and electrical engineering student
 + location : Esfahan , I.R.Iran
 
 
